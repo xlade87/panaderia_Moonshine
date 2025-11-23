@@ -145,12 +145,12 @@
 </head>
 <body>
     <div class="welcome-container">
-        <div class="logo">🚀</div>
+        <div class="logo">🛒</div>
         
         <h1>Bienvenido</h1>
         <p>Esta es la pagina de bienvenida de la app.</p>
 
-        <a href="{{ url('/moonshine') }}" class="admin-btn">
+        <a href="{{ url('/admin') }}" class="admin-btn">
             Acceder al Panel de Administración
         </a>
 
