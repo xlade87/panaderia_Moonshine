@@ -150,7 +150,7 @@
         <h1>Bienvenido</h1>
         <p>Esta es la pagina de bienvenida de la app.</p>
 
-        <a href="{{ url('/admin/login') }}" class="admin-btn">
+        <a href="{{ url('/moonshine') }}" class="admin-btn">
             Acceder al Panel de Administración
         </a>
 
